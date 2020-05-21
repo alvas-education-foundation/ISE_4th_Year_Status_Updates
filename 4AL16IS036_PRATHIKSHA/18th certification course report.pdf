@@ -1,0 +1,1022 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>    
+
+    
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="https://www.pdf2go.com/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
+
+    <link rel="preconnect" href="https://pdf2go6.ocstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://pdf2go6.ocstatic.com/assets/css/main.min.cb.0f9dbd95.css">
+    <link rel="stylesheet" href="https://pdf2go6.ocstatic.com/assets/css/fonts.min.cb.0f9dbd95.css">
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.pdf2go.com/es",
+            "logo": "https://pdf2go6.ocstatic.com/assets/img/pdf2go_logo_png.png",
+            "sameAs": [
+                "https://www.facebook.com/pdf2go/",
+                "https://twitter.com/pdf2go_com/"
+            ],
+            "description": "Edita tu archivo PDF en línea de forma gratuita con este conversor de alta calidad o comprime, fusiona, divide, rota, organiza o protege tus documentos PDF.",
+            "name": "PDF2Go",
+            "legalName": "QaamGo Web GmbH",
+            "contactPoint": {
+                "contactType": "customer support",
+                "email": "time2help@pdf2go.com",
+                "url": "https://www.pdf2go.com/es/ayuda"
+            }
+        }
+    </script>
+
+    <title>Editar PDF – Edita archivos PDF en línea</title>
+    <meta name="description" content="Edita tu archivo PDF en línea de forma gratuita con este conversor de alta calidad o comprime, fusiona, divide, rota, organiza o protege tus documentos PDF."/>
+    <meta name="keywords" content="conversor en línea, conversor de pdf en línea, conversor de pdf gratuito, conversor gratuito, convertir pdf gratis, editor de pdf en línea, editor de pdf gratuito, pdf gratis"/>
+    <meta name="robots" content="noindex"/>
+
+
+    <meta property="og:title" content="Editor de PDF en línea gratuito" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.pdf2go.com/es/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" />
+    <meta property="og:site_name" content="Convertir archivos PDF en línea" />
+    <meta property="og:description" content="PDF2Go es un editor de PDF y conversor de PDF en línea gratuito con la capacidad de editar, fusionar y proteger archivos PDF." />
+    <meta property="og:image" content="https://pdf2go6.ocstatic.com/assets/img/social/pdf2go_social_v2_es.png" />
+    <meta property="og:image:width" content="1275" />
+    <meta property="og:image:height" content="633" />
+    <meta property="og:image" content="https://pdf2go6.ocstatic.com/assets/favicon/favicon-196.png" />
+    <meta property="og:image:width" content="196" />
+    <meta property="og:image:height" content="196" />
+
+    <meta property="fb:app_id" content="645639342256160" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@pdf2go">
+    <meta name="twitter:creator" content="@pdf2go">
+    <meta name="twitter:title" content="Editor de PDF en línea gratuito">
+    <meta name="twitter:description" content="Editor de PDF y conversor de PDF en línea gratuito con capacidad de edición, fusión y protección de archivos PDF.">
+    <meta name="twitter:image:src" content="https://pdf2go6.ocstatic.com/assets/img/social/pdf2go_social_v2_es.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://pdf2go6.ocstatic.com/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://pdf2go6.ocstatic.com/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://pdf2go6.ocstatic.com/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://pdf2go6.ocstatic.com/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://pdf2go6.ocstatic.com/assets/favicon/safari-pinned-tab.svg" color="#e88800">
+    <meta name="msapplication-TileColor" content="#e88800">
+    <meta name="application-name" content=""/>
+    <meta name="msapplication-config" content="https://pdf2go6.ocstatic.com/assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+
+    <link rel="stylesheet" href="https://pdf2go6.ocstatic.com/assets/css/literallycanvas.cb.0f9dbd95.css">
+    <link rel="stylesheet" href="https://pdf2go6.ocstatic.com/assets/css/spectrum.cb.0f9dbd95.css">
+</head>
+<body class="lang-es">
+
+<div id="header" class="header">
+    <nav class="container navbar">
+         <a class="navbar-brand" href="https://www.pdf2go.com/es" title="Varias herramientas de edición y conversión para archivos PDF">
+            <img class="img-fluid" id="brand-logo" src="https://pdf2go6.ocstatic.com/assets/img/pdf2go_logo_png.png" alt="Edita, convierte, comprime, fusiona, divide, rota, organiza o protege tu PDF en línea de forma gratuita.">
+        </a>
+
+        <div class="claim hidden-xs hidden-sm mr-auto navbar-text">
+            <strong>Convierte archivos PDF sin instalar ningún software.</strong>
+            <p>Tu herramienta todo en uno para editar archivos PDF.</p>
+        </div>
+
+        <div class="header-buttons">
+                        <div>
+                               <a class="btn btn-login btn-lg" id="login-btn" rel="nofollow" href="/es/entrar">Iniciar sesión</a>
+                    <a class="btn btn-signup btn-lg" id="signup-btn" rel="nofollow" href="/es/registro">Registro</a>
+                            </div>
+                    </div>
+    </nav>
+</div>
+
+<div id="post-header" class="post-header">
+    <div class="color-stripe row w-100 no-margin ">
+    <div class="bg-main-1"></div>
+    <div class="bg-main-2"></div>
+    <div class="bg-main-3"></div>
+    <div class="bg-main-4"></div>
+    <div class="bg-main-5"></div>
+    <div class="bg-main-6"></div>
+    <div class="bg-main-7"></div>
+    <div class="bg-main-8"></div>
+</div>
+            <nav class="navbar navbar-expand-md w-100 no-padding">
+            <div id="toolCollapse" class="w-100">
+                <div class="container">
+                    <div class="row">
+                        <ul class="tools-container col-12 col-md-9 col-lg-8 mx-0 row no-margin list-unstyled  hidden-sm hidden-xs">
+                                                          <li class="tool"><a href="https://www.pdf2go.com/es/editar-pdf" title="Cómo editar un PDF">Editar PDF</a></li>
+                                                          <li class="tool"><a href="https://www.pdf2go.com/es/comprimir-pdf" title="¿Cómo comprimir archivos PDF?">Comprimir PDF</a></li>
+                                                          <li class="tool"><a href="https://www.pdf2go.com/es/dividir-pdf" title="Retirar varias páginas de un archivo PDF">Dividir PDF</a></li>
+                                                          <li class="tool"><a href="https://www.pdf2go.com/es/fusionar-pdf" title="Fusiona fácilmente archivos PDF">Fusionar PDF</a></li>
+                                                          <li class="tool"><a href="https://www.pdf2go.com/es/convertir-a-pdf" title="Conversor de archivos PDF">Convertir a PDF</a></li>
+                                                   </ul>
+                        <ul class="tools-container p-l-0 main-nav-items no-margin list-unstyled col-12 col-md-12 col-lg-4 mx-0 text-right">
+
+                            
+                                                        <li class="tool nav-item dropdown">
+                                <a class="nav-link dropdown-toggle main-language-selector" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    ES <i class="fa fa-globe"></i> <i class="fa fa-chevron-down menu-closed"></i><i class="fa fa-chevron-up menu-open"></i>
+                                </a>
+                                <div class="container">
+                                    <div class="main-language-dropdown dropdown-menu dropdown-menu-hover dropdown-menu-right w-100">
+                                        <div class="main-color-gradient"></div>
+                                        <div class="container">
+                                            <div class="row">
+    <div class="col-md-6 no-padding">
+        <ul class="list-unstyled">
+            <li>
+            <li ><a class="" href="https://www.pdf2go.com/id/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Bahasa Indonesia">Bahasa Indonesia</a></li>            <li ><a class="" href="https://www.pdf2go.com/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Change language to English">English</a></li>
+            <li ><a class="" href="https://www.pdf2go.com/fr/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Changer la langue vers le français">Français</a></li>            <li ><a class="" href="https://www.pdf2go.com/hi/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="हिन्दी">हिन्दी</a></li>            <li ><a class="" href="https://www.pdf2go.com/zh/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="選擇中文作為語言">中文 (简体)</a></li>            <li ><a class="" href="https://www.pdf2go.com/de/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Sprache zu Deutsch ändern">Deutsch</a></li>        </ul>
+    </div>
+    <div class="col-md-6 no-padding">
+        <ul class="list-unstyled">
+            <li>
+            <li class="active"><a class="" href="https://www.pdf2go.com/es/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Cambiar idioma a Español">Español</a></li>            <li ><a class="" href="https://www.pdf2go.com/pt/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Mudar idioma para portugues">Português</a></li>            <li ><a class="" href="https://www.pdf2go.com/ru/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Изменить язык на русский">Pусский</a></li>            <li ><a class="" href="https://www.pdf2go.com/vi/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Tiếng Việt">Tiếng Việt</a></li>            <li ><a class="" href="https://www.pdf2go.com/it/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="Italiano">Italiano</a></li>            <li ><a class="" href="https://www.pdf2go.com/ar/edit-pdf/85f5386c-5382-4f1c-9bab-cc99dc27aa52" title="التبديل إلى العربية">العربية</a></li>        </ul>
+    </div>
+</div>                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="tool nav-item dropdown all-tools">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Todas las herramientas <i class="fa fa-chevron-down menu-closed"></i><i class="fa fa-chevron-up menu-open"></i>
+                                </a>
+                                <div class="container">
+                                    <div class="dropdown-menu dropdown-menu-hover tools-dropdown dropdown-menu-right">
+                                        <div class="main-color-gradient"></div>
+                                        <div class="container">
+                                            <div class="row">
+                                                                                                            <div class="col-12 col-xs-12 col-sm-6 col-lg-3 no-padding nav-feature-col">
+                                                            <div class="nav-title text-main-1">Editar un archivo PDF</div>
+                                                            <ul class="list-unstyled">
+                                                                                                                                                                                                                                                                                                                                                <li class="bg-main-1-hover">
+                                                                        <a href="https://www.pdf2go.com/es/editar-pdf" title="Cómo editar un PDF">
+                                                                            <i class="far fa-3x fa-edit"></i>
+                                                                            <div>
+                                                                                Editar PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-1-hover">
+                                                                        <a href="https://www.pdf2go.com/es/fusionar-pdf" title="Fusiona fácilmente archivos PDF">
+                                                                            <i class="far fa-3x fa-paste"></i>
+                                                                            <div>
+                                                                                Fusionar PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-1-hover">
+                                                                        <a href="https://www.pdf2go.com/es/dividir-pdf" title="Retirar varias páginas de un archivo PDF">
+                                                                            <i class="far fa-3x fa-page-break"></i>
+                                                                            <div>
+                                                                                Dividir PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-1-hover">
+                                                                        <a href="https://www.pdf2go.com/es/ordenar-eliminar-pdf" title="Elimina una página de un PDF">
+                                                                            <i class="far fa-3x fa-cut"></i>
+                                                                            <div>
+                                                                                Organizar y eliminar páginas de PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-1-hover">
+                                                                        <a href="https://www.pdf2go.com/es/rotar-pdf" title="Gira una página de un PDF">
+                                                                            <i class="far fa-3x fa-sync-alt"></i>
+                                                                            <div>
+                                                                                Rotar páginas de PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                </ul>
+                                                        </div>
+                                                                                                            <div class="col-12 col-xs-12 col-sm-6 col-lg-3 no-padding nav-feature-col">
+                                                            <div class="nav-title text-main-3">Mejorar archivos PDF</div>
+                                                            <ul class="list-unstyled">
+                                                                                                                                                                                                                                                                                                                                                <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/es/comprimir-pdf" title="¿Cómo comprimir archivos PDF?">
+                                                                            <i class="far fa-3x fa-compress-arrows-alt"></i>
+                                                                            <div>
+                                                                                Comprimir PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/es/proteger-pdf" title="Bloquear un archivo PDF">
+                                                                            <i class="far fa-3x fa-lock"></i>
+                                                                            <div>
+                                                                                Proteger un PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/es/desbloquear-pdf" title="Cómo desbloquear un archivo PDF">
+                                                                            <i class="far fa-3x fa-unlock-alt"></i>
+                                                                            <div>
+                                                                                Desbloquear PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/es/cambiar-tamano-pdf" title="Conversor del tamaño de página de PDF">
+                                                                            <i class="far fa-3x fa-arrows-alt"></i>
+                                                                            <div>
+                                                                                Cambiar el tamaño de página del PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/es/reparar-pdf" title="Cómo reparar un archivo PDF">
+                                                                            <i class="far fa-3x fa-wrench"></i>
+                                                                            <div>
+                                                                                Reparar PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-3-hover">
+                                                                        <a href="https://www.pdf2go.com/linearize-pdf" title="Visualización rápida de PDF para la web">
+                                                                            <i class="far fa-3x fa-tachometer-alt-fastest"></i>
+                                                                            <div>
+                                                                                Optimizar PDF para la web
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                </ul>
+                                                        </div>
+                                                                                                            <div class="col-12 col-xs-12 col-sm-6 col-lg-3 no-padding nav-feature-col">
+                                                            <div class="nav-title text-main-5">Convertir PDF</div>
+                                                            <ul class="list-unstyled">
+                                                                                                                                                                                                                                                                                                                                                <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/convertir-de-pdf" title="Convertir archivo PDF">
+                                                                            <i class="far fa-3x fa-file-pdf"></i>
+                                                                            <div>
+                                                                                Convertir PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/pdf-a-word" title="Cómo convertir PDF a Word">
+                                                                            <i class="far fa-3x fa-file-word"></i>
+                                                                            <div>
+                                                                                PDF a Word
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/pdf-a-jpg" title="Guarda PDF como archivos JPG">
+                                                                            <i class="far fa-3x fa-file-image"></i>
+                                                                            <div>
+                                                                                PDF a JPG
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/pdf-a-powerpoint" title="Cómo convertir PDF a PowerPoint">
+                                                                            <i class="far fa-3x fa-file-powerpoint"></i>
+                                                                            <div>
+                                                                                PDF a PowerPoint
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/pdf-a-excel" title="Convierte de PDF a Excel online y rápido">
+                                                                            <i class="far fa-3x fa-file-excel"></i>
+                                                                            <div>
+                                                                                PDF a Excel
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-5-hover">
+                                                                        <a href="https://www.pdf2go.com/es/pdf-a-text" title="Convierte páginas de PDF escaneadas en archivos de texto editables">
+                                                                            <i class="far fa-3x fa-file-alt"></i>
+                                                                            <div>
+                                                                                PDF a TEXT
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                </ul>
+                                                        </div>
+                                                                                                            <div class="col-12 col-xs-12 col-sm-6 col-lg-3 no-padding nav-feature-col">
+                                                            <div class="nav-title text-main-7">Convertir a PDF</div>
+                                                            <ul class="list-unstyled">
+                                                                                                                                                                                                                                                                                                                                                <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/convertir-a-pdf" title="Conversor de archivos PDF">
+                                                                            <i class="far fa-3x fa-file-pdf"></i>
+                                                                            <div>
+                                                                                Convertir a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/word-a-pdf" title="Cómo convertir Word a PDF">
+                                                                            <i class="far fa-3x fa-file-word"></i>
+                                                                            <div>
+                                                                                Word a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/jpg-a-pdf" title="Convertir JPG a PDF">
+                                                                            <i class="far fa-3x fa-file-image"></i>
+                                                                            <div>
+                                                                                JPG a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/powerpoint-a-pdf" title="Crear un PDF a partir de un PowerPoint">
+                                                                            <i class="far fa-3x fa-file-powerpoint"></i>
+                                                                            <div>
+                                                                                PowerPoint a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/excel-a-pdf" title="Convertir Excel a PDF">
+                                                                            <i class="far fa-3x fa-file-excel"></i>
+                                                                            <div>
+                                                                                Excel a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="bg-main-7-hover">
+                                                                        <a href="https://www.pdf2go.com/es/epub-a-pdf" title="Convertir EPUB a PDF">
+                                                                            <i class="far fa-3x fa-book"></i>
+                                                                            <div>
+                                                                                EPUB a PDF
+                                                                            </div>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                                                                                </ul>
+                                                        </div>
+                                                                                                </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="tool nav-item dropdown">
+                                <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Menú <i class="fa fa-bars"></i>
+                                </a>
+                                <div class="container">
+                                    <div class="dropdown-menu no-padding dropdown-menu-hover dropdown-menu-right w-100 main-nav-dropdown">
+                                        <div class="main-color-gradient"></div>
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-md-12 no-padding">
+                                                    <ul class="list-unstyled">
+                                                                                                                    <li>
+                                                                <a href="https://www.pdf2go.com/es/precios" title="Precios" >
+                                                                                                                                        <i class="fa fa-dollar-sign"></i>                                                                    <div>
+                                                                        Precios
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a href="https://blog.pdf2go.com" title="Blog" >
+                                                                                                                                        <i class="fa fa-rss"></i>                                                                    <div>
+                                                                        Blog
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a href="https://www.pdf2go.com/es/donar" title="Donar" rel="nofollow">
+                                                                                                                                        <i class="fa fa-donate"></i>                                                                    <div>
+                                                                        Donar
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a href="https://www.pdf2go.com/es/ayuda" title="Ayuda" rel="nofollow">
+                                                                                                                                        <i class="fa fa-question"></i>                                                                    <div>
+                                                                        Ayuda
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a href="https://www.pdf2go.com/developer" title="Desarrollador" >
+                                                                                                                                        <i class="fa fa-code"></i>                                                                    <div>
+                                                                        Desarrolladores
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                <li>
+                                                            <h6 class="dropdown-header">Más herramientas</h6>
+                                                        </li>
+                                                                                                                    <li>
+
+                                                                <a href=" https://www.img2go.com/es" title="Varias herramientas de edición y conversión para archivos de imagen">
+                                                                     <img src="https://pdf2go6.ocstatic.com/assets/img/img2go_icon_20.png" alt="Potente herramienta de edición y conversión de imágenes">                                                                                                                                        <div>
+                                                                        Img2Go
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+
+                                                                <a href=" https://www.video2edit.com/es" title="Varias herramientas de conversión y edición para archivos de vídeo">
+                                                                     <img src="https://pdf2go6.ocstatic.com/assets/img/video2edit_icon_20.png" alt="Varias herramientas de conversión y edición para archivos de vídeo">                                                                                                                                        <div>
+                                                                        Video2Edit
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+
+                                                                <a href=" https://www.metadata2go.com" title="Obtén todos los metadatos de tus archivos">
+                                                                     <img src="https://pdf2go6.ocstatic.com/assets/img/metadata2go_icon_20.png" alt="Obtén todos los metadatos de tus archivos">                                                                                                                                        <div>
+                                                                        Metadata2Go
+                                                                    </div>
+                                                                </a>
+                                                            </li>
+                                                                                                            </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <div class="modal fade" role="dialog" id="image_settings_modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"><i class="fa fa-gear"></i> Ajustes de imagen</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="control-label" for="image_width">Anchura (en píxeles)</label>
+                        <input type="number" class="form-control" name="image_width" id="image_width"
+                               placeholder="Introducir anchura de la imagen" onfocus="this.placeholder=''"
+                               onblur="this.placeholder='Introducir\u0020anchura\u0020de\u0020la\u0020imagen'"/>
+                        <div class="alert alert-danger hidden">
+                            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="image_height">Altura (en píxeles)</label>
+                        <input type="number" class="form-control" name="image_height" id="image_height"
+                               placeholder="Introducir altura de la imagen" onfocus="this.placeholder=''"
+                               onblur="this.placeholder='Introducir\u0020altura\u0020de\u0020la\u0020imagen'"/>
+                        <div class="alert alert-danger hidden">
+                            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" for="image_opacity">Transparencia</label>
+                        <select class="form-control imageOpacitySelect" id="image_opacity" name="image_opacity">
+                            <option selected="selected" value="1">0%</option>
+                            <option value="0.9">10%</option>
+                            <option value="0.8">20%</option>
+                            <option value="0.7">30%</option>
+                            <option value="0.6">40%</option>
+                            <option value="0.5">50%</option>
+                            <option value="0.4">60%</option>
+                            <option value="0.3">70%</option>
+                            <option value="0.2">80%</option>
+                            <option value="0.1">90%</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="add_image_button">
+                        <i class="fa fa-image"></i> Añadir imagen
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <input type="file" class="hidden" accept="image/*" id="add_image_input" name="add_image_input"/>
+
+
+    <div class="main-content sub subcontent main-editor">
+
+       <!-- <div class="wait-animation" id="load-pixie-animation">
+            <i class="fa fa-spinner fa-spin"></i> <span>Un momento...</span>
+        </div> -->
+
+        <div class="pixie-container">
+            
+        <div class="menu-buttons-left ui-loading hidden">
+             <button class="menu-toggle btn-info float-left no-shadow" data-target="menu-left-panel" style="">
+         <i class="far fa-copy"></i> Páginas
+     </button>
+     <button class="menu-toggle btn-danger float-left no-shadow" data-target="menu-left-options" style="">
+         <i class="far fa-cog"></i> Opciones
+     </button>
+     </div>
+    <div class="menu-left menu-left-panel side-menu hidden-xs hidden-sm hidden-md hidden ui-loading">
+        <div class="panel panel-default">
+                 <div class="panel-heading ui-loading hidden no-margin">
+                      <h3>Páginas</h3>
+              </div>
+
+     <div class="panel-body ui-loading hidden">
+                      <div class="page-tpl page-tpl-box hidden no-margin editor-page-box">
+                 <div class="page hidden">
+                     <div class="page-number">
+                     </div>
+                     <img class="editor-page-img img-fluid hidden" crossorigin="anonymous">
+                     <img class="editor-page-img editor-page-img-load img-fluid" data-page-type="edit" crossorigin="anonymous">
+                 </div>
+                 <div class="text-center loading">
+                     <div class="spinner">
+                         <div class="rect1"></div>
+                         <div class="rect2"></div>
+                         <div class="rect3"></div>
+                         <div class="rect4"></div>
+                         <div class="rect5"></div>
+                         <div class="rect6"></div>
+                         <div class="rect7"></div>
+                         <div class="rect8"></div>
+                     </div>
+                     <div class="spinner-text">
+                         Un momento...
+                     </div>
+                 </div>
+             </div>
+             <div id="editor-pages" class="pages-container">
+
+             </div>
+              </div>
+         </div>
+    </div>
+
+<form>
+    <div class="menu-left-options menu-left side-menu ui-loading hidden-xs hidden-sm hidden-md hidden">
+        <div class="panel panel-default">
+            <div class="panel-heading no-margin">
+                <h3>Opciones</h3>
+            </div>
+
+            <div class="form-group">
+
+                <a class="tool" >
+                    <div class="toolbar-item">
+                        <div class="d-inline-block">
+
+                            <select name="strokewidth" id="strokewidth" class="form-control strokeWidthSelect"
+                                    title="Cambiar tamaño de línea">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="5" selected="selected">5</option>
+                                <option value="10">10</option>
+                                <option value="15">15</option>
+                                <option value="20">20</option>
+                                <option value="25">25</option>
+                                <option value="30">30</option>
+                            </select>
+                        </div>
+                        <div class="btn-group text-bold btn-toolbar-title d-inline-block" role="group" aria-label="..."
+                             id="strokewidth-title"> Tamaño de trazo</div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="panel-heading">
+                        <h3>Color</h3>
+                </div>
+
+                <div class="panel-body">
+                    <div class="form-group">
+
+                    <a class="tool">
+                        <div class="toolbar-item m-b-10">
+                            <div class="d-inline-block">
+                                <input id="colorpicker-tool-fg" type="text" class="form-control"/>
+                            </div>
+                            <div class="btn-group text-bold btn-toolbar-title d-inline-block" role="group" aria-label="..."
+                                 id="font-colorpicker-title">Color de línea/fuente</div>
+                        </div>
+                    </a>
+
+                    <a class="tool" >
+                        <div class="toolbar-item">
+                            <div class="d-inline-block">
+                                <div class="d-inline-block">
+                                    <input id="colorpicker-tool-bg" type="text" class="form-control"/>
+                                </div>
+                            </div>
+                            <div class="btn-group text-bold btn-toolbar-title d-inline-block" role="group" aria-label="..."
+                                 id="bg-colorpicker-title">Color de fondo</div>
+                        </div>
+                    </a>
+                    </div>
+                    <div class="panel-heading no-margin">
+                        <h3>Fuente</h3>
+                    </div>
+
+                    <div class="form-group ">
+
+                        <a class="tool">
+                            <div class="toolbar-item">
+                                <div class="w-100">
+                                    <div class="btn-group w-100" role="group" aria-label="...">
+                                        <select name="fonttype" id="fonttype" class="form-control fontTypeSelect">
+                                            <option value="" disabled="disabled">Cambiar tipo de fuente</option>
+                                            <option value="Arial, Helvetica, sans-serif" selected="selected">Arial</option>
+                                            <option value='"Arial Black", Gadget, sans-serif'>Arial Black</option>
+                                            <option value='"Comic Sans MS", cursive, sans-serif'>Comic Sans MS</option>
+                                            <option value='"Courier New", Courier, monospace'>Courier New</option>
+                                            <option value="Tahoma, Geneva, sans-serif">Geneva</option>
+                                            <option value="Georgia, serif">Georgia</option>
+                                            <option value="Impact">Impact</option>
+                                            <option value='"Lucida Sans Unicode", "Lucida Grande", sans-serif'>Lucida Grande
+                                            </option>
+                                            <option value='"Lucida Console", Monaco, monospace'>Monaco</option>
+                                            <option value='"Palatino Linotype", "Book Antiqua", Palatino, serif'>Palatino
+                                            </option>
+                                            <option value='"Times New Roman", Times, serif'>Times New Roman</option>
+                                            <option value='"Trebuchet MS", Helvetica, sans-serif'>Trebuchet MS</option>
+                                            <option value="Verdana, Geneva, sans-serif">Verdana</option>
+                                        </select>
+                                    </div>
+
+                                </div></div></a>
+                    </div>
+
+
+
+
+
+                    <div class="form-group form-separator">
+
+                    <a class="tool">
+                        <div class="toolbar-item">
+                            <div class="">
+
+                                <button type="button" class="btn btn-tool btn-default btn-sm font-tools" id="font-bold-tool"
+                                        title="Negrita"><i class="fa fa-bold"></i></button>
+                                <button type="button" class="btn btn-tool btn-default btn-sm font-tools" id="font-italic-tool"
+                                        title="Cursiva"><i class="fa fa-italic"></i></button>
+                                <div class="btn-group text-bold btn-toolbar-title d-inline-block" role="group" aria-label="..."
+                                     id="font-colorpicker-title">Estilo de fuente</div>
+                            </div></div></a>
+                    </div>
+
+                    <div class="form-group form-separator">
+
+                    <div class="btn-group" role="group" aria-label="...">
+                        <select name="fontsize" id="fontSizesDropdown" class="form-control fontSizeSelect">
+                            <optgroup label="Tamaños personalizados"
+                                      id="optionGroupCustomFontSizes"></optgroup>
+                            <optgroup label="Tamaños estándar" id="optionGroupStandardFontSizes">
+                                <option value="6">6</option>
+                                <option value="7">7</option>
+                                <option value="8">8</option>
+                                <option value="9">9</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option selected value="12">12</option>
+                                <option value="13">13</option>
+                                <option value="14">14</option>
+                                <option value="16">16</option>
+                                <option value="18">18</option>
+                                <option value="20">20</option>
+                                <option value="22">22</option>
+                                <option value="24">24</option>
+                                <option value="28">28</option>
+                                <option value="36">36</option>
+                                <option value="48">48</option>
+                                <option value="60">60</option>
+                                <option value="72">72</option>
+                                <option value="96">96</option>
+                                <option value="128">128</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                        <div class="btn-group text-bold btn-toolbar-title d-inline-block" role="group" aria-label="..."
+                             id="font-colorpicker-title">Tamaño de fuente</div>
+                    </div>
+
+                </div>
+        </div>
+    </div>
+</form>
+
+        <div class="menu-mid">
+        
+
+    <div class="editor-toolbar primary-toolbar ui-loading hidden">
+
+
+        <a class="tool" id="tool-text"><div class="toolbar-item"><i class="fas fa-font fa-2x"></i> <div>Texto</div></div></a>
+        <a class="tool" id="tool-pencil"><div class="toolbar-item"><i class="far fa-pencil fa-2x"></i> <div>Lápiz</div></div></a>
+        <a class="tool" id="tool-whiteout"><div class="toolbar-item"><i class="far fa-eraser fa-2x"></i> <div>Borrar</div></div></a>
+        <a class="tool" id="tool-highlighter"><div class="toolbar-item"><i class="far fa-highlighter fa-2x"></i> <div>Destacar</div></div></a>
+        <a class="tool" id="tool-line"><div class="toolbar-item"><i class="far fa-minus fa-2x"></i> <div>Línea</div></div></a>
+        <a class="tool" id="tool-dashed"><div class="toolbar-item"><i class="far fa-ellipsis-h fa-2x"></i> <div>Línea discontinua</div></div></a>
+        <a class="tool" id="tool-arrow"><div class="toolbar-item"><i class="far fa-arrow-alt-left fa-2x"></i> <div>Flecha</div></div></a>
+        <a class="tool" id="tool-rectangle"><div class="toolbar-item"><i class="far fa-rectangle-portrait fa-2x"></i> <div>Rectángulo</div></div></a>
+        <a class="tool" id="tool-ellipse"><div class="toolbar-item"><i class="far fa-circle fa-2x"></i> <div>Elipse</div></div></a>
+        <a class="tool" id="tool-polygon"><div class="toolbar-item"><i class="far fa-draw-polygon fa-2x"></i> <div>Polígono</div></div></a>
+        <a class="tool" id="tool-image"><div class="toolbar-item"><i class="far fa-image fa-2x"></i> <div>Imagen</div></div></a>
+    </div>
+    <div class="editor-toolbar secondary-editor-toolbar ui-loading hidden">
+        <a class="tool" id="tool-pan"><div class="toolbar-item"><i class="far fa-expand-arrows fa-2x"></i> <div>Panorámica</div></div></a>
+        <a class="tool" id="tool-zoom-in"><div class="toolbar-item"><i class="far fa-search-plus fa-2x"></i> <div>Acercar</div></div></a>
+        <a class="tool" id="tool-zoom-out"><div class="toolbar-item"><i class="far fa-search-minus fa-2x"></i> <div>Alejar</div></div></a>
+        <a class="tool" id="tool-select"><div class="toolbar-item"><i class="far fa-hand-pointer fa-2x"></i> <div>Seleccionar</div></div></a>
+        <a class="tool" id="tool-undo"><div class="toolbar-item"><i class="fa fa-reply fa-2x"></i> <div>Deshacer</div></div></a>
+        <a class="tool" id="tool-redo"><div class="toolbar-item"><i class="fa fa-reply fa-flip-horizontal fa-2x"></i> <div>Rehacer</div></div></a>
+        <a class="tool" id="tool-delete"><div class="toolbar-item"><i class="far fa-trash-alt fa-2x"></i> <div>Eliminar</div></div></a>
+        <a class="tool" id="tool-reset"><div class="toolbar-item"><i class="far fa-sync fa-2x"></i> <div>Restablecer</div></div></a>
+    </div>
+    <div class="editor-stage" style='height: 100%;padding-top:130px;'>
+        <div class="ui-loader text-center">
+            <div class="spinner">
+                <div class="rect1"></div>
+                <div class="rect2"></div>
+                <div class="rect3"></div>
+                <div class="rect4"></div>
+                <div class="rect5"></div>
+                <div class="rect6"></div>
+                <div class="rect7"></div>
+                <div class="rect8"></div>
+
+            </div>
+            <div class="spinner-text">
+                Un momento...<br>
+                <span class="loading-count"></span>
+            </div>
+        </div>
+        <div class="lc-stage bg-white ui-loading" style="height:100%;">
+
+        </div></div>
+
+
+    </div>
+
+
+            <div class="wait-animation wait-overlay hidden" id="submit-animation">
+            <i class="fa fa-spinner fa-spin"></i> <span>Un momento...</span>
+        </div>
+    
+
+    <div class="menu-buttons-right ui-loading hidden">
+        
+
+    <button class="menu-toggle w-100  submit-btn save-as-btn px-4" data-target="menu-right">
+       <strong class="btn-lg">Guardar como</strong>
+        <i class="fas fa-chevron-down"></i>
+    </button>
+    </div>
+    <div class="menu-right side-menu hidden-xs hidden-sm hidden-md hidden">
+        <div class="panel panel-default ui-loading">
+                            <div class="panel-heading">
+                                            <h3>Ajustes</h3>
+                                    </div>
+
+                <div class="panel-body">
+                        <form id="sendform" action="#" method="post">
+
+                    <input data-options-type="base" type="hidden" class="hidden" name="category" value="document"/>
+            <input data-options-type="base" type="hidden" class="hidden" name="target" value="pdf"/>
+            <input data-options-type="options" data-value-type="boolean" type="hidden" class="hidden" name="allow_multiple_outputs" value="true"/>
+            <input data-options-type="options" data-value-type="boolean" type="hidden" class="hidden" name="stamp" value="true"/>
+
+            <div class="form-group  ">
+    <label>
+        <input type="checkbox" data-options-type="options" name="rasterize_dpi" data-value-type="integer" value="300"> Seguridad avanzada
+        <i class="fa fa-info-circle text-primary" title="Para obtener más seguridad, puedes seleccionar esta opción y evitar que otras personas editen el documento o accedan a zonas potencialmente ocultas, pues todos los contenidos se fusionarán en una sola capa no analizable."></i>
+    </label>
+</div>
+
+        
+        <div class="form-group form-separator submit-editor-container">
+            <button type="button" class="btn btn-lg submit-btn submit-editor" id="submitBtnEdit">
+                <i class="fas fa-save"></i>
+                <strong class="text-uppercase">Guardar</strong>
+            </button>
+        </div>
+
+        <noscript>
+            <div id="noscriptAlert" class="alert alert-info alert-noscript no-border-radius" role="alert">
+                <span><strong>Información:</strong> Activa JavaScript para que este sitio web funcione correctamente.</span>
+            </div>
+        </noscript>
+    </form>
+                </div>
+                    </div>
+    </div>
+        </div>
+
+    </div>
+
+    <div id="externalUrlDialog" class="modal fade " role="dialog">
+    <div class="modal-dialog no-border-radius inherit">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title"><i class="fa fa-cloud-upload"></i> Cargar de internet</h4>
+            </div>
+            <div class="modal-body" style="position: relative">
+                <form id="FormSubmitURL">
+                    <div class="form-group">
+                        <label class="control-label" for="externalUrlInput">Introduce la URL del archivo</label>
+                        <input type="text" class="form-control" id="externalUrlInput" placeholder="http://www.example.com/examplefile.pdf" onfocus="this.placeholder=''" onblur="this.placeholder='http://www.example.com/examplefile.pdf'"/>
+                        <div class="hidden"  id="cloudModelUrlMessage" style="margin-top: 10px"><label class="control-label">Introduce la URL del archivo</label></div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-success" id="externalUrlDialogOkButton">Aceptar</button>
+                <button type="button" class="btn btn-default pull-right" data-dismiss="modal">Cancelar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    <script>
+                var sat = {
+            'locale': 'es',
+            'pricing': 'https://www.pdf2go.com/es/precios',
+            'user': false,
+            'premium': false,
+            'modal': true        };
+
+            </script>
+    <script src="https://pdf2go6.ocstatic.com/assets/js/qg-log.min.cb.0f9dbd95.js"></script>
+    <script src="https://pdf2go6.ocstatic.com/assets/js/main.min.cb.0f9dbd95.js"></script>
+    <script src="https://pdf2go6.ocstatic.com/assets/js/trans_es.min.cb.0f9dbd95.js"></script>
+
+    <script>
+        $(function(){
+            $(document).on("click", "[data-hide]", function(){
+                $(this).closest("." + $(this).attr("data-hide")).hide();
+                return false;
+            });
+
+            qgGeneralHelper._setUpSupportLinks();
+        });
+    </script>
+
+    
+    <script src="https://pdf2go6.ocstatic.com/assets/js/pdf-editor.cb.0f9dbd95.js"></script>
+
+    <script>
+        previousPage = 'https://www.pdf2go.com/es/editar-pdf';
+        qgOperation = 'edit';
+        qgPdfEditor.init({'jobId': '85f5386c-5382-4f1c-9bab-cc99dc27aa52'});
+    </script>
+
+    <script>
+        $(document).on('click', 'button.menu-toggle', function () {
+            var target = $(this).attr('data-target');
+
+            $('.menu-left').each(function( index ) {
+               if (!$(this).hasClass(target)) {
+                   $(this).addClass('hidden-xs')
+                       .addClass('hidden-md')
+                       .addClass('hidden-sm')
+                       .addClass('hidden');
+               }
+                if ($(this).hasClass(target)) {
+                    if ($(this).hasClass('hidden')) {
+                        $(this).removeClass('hidden-xs')
+                            .removeClass('hidden-md')
+                            .removeClass('hidden-sm')
+                            .removeClass('hidden');
+                    } else {
+                        $(this).addClass('hidden-xs')
+                            .addClass('hidden-md')
+                            .addClass('hidden-sm')
+                            .addClass('hidden');
+                    }
+                }
+            });
+
+            $('.menu-right').each(function( index ) {
+                if (!$(this).hasClass(target)) {
+                    $(this).addClass('hidden-xs')
+                        .addClass('hidden-md')
+                        .addClass('hidden-sm')
+                        .addClass('hidden');
+                }
+                if ($(this).hasClass(target)) {
+                    if ($(this).hasClass('hidden')) {
+                        $(this).removeClass('hidden-xs')
+                            .removeClass('hidden-md')
+                            .removeClass('hidden-sm')
+                            .removeClass('hidden');
+                    } else {
+                        $(this).addClass('hidden-xs')
+                            .addClass('hidden-md')
+                            .addClass('hidden-sm')
+                            .addClass('hidden');
+                    }
+                }
+            });
+        })
+    </script>
+
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(["setCookieDomain", "*.pdf2go.com"]);
+        _paq.push(["setDomains", ["*.pdf2go.com"]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//stats.pdf2go.com/piwik/";
+            var v="//stats.ocstatic.com/piwik/matomo-0f9dbd95.js";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '10']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=v; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <noscript><p><img src="//stats.pdf2go.com/piwik/piwik.php?idsite=10&amp;rec=1" style="border:0;" alt="Piwik" /></p></noscript>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86838232-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-86838232-1', { 'anonymize_ip': true });
+
+
+        $('.dropdown-menu a.dropdown-toggle-on').on('click', function(e) {
+            if (!$(this).next().hasClass('show')) {
+                $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+            }
+            var $subMenu = $(this).next(".dropdown-menu");
+            $subMenu.toggleClass('show');
+
+
+            $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+                $('.dropdown-submenu .show').removeClass("show");
+            });
+
+            return false;
+        });
+    </script>
+
+    <div id="qg-toast">
+                                                <script>
+        var qgShowConsent = false;
+    </script>
+
+<script>
+        var qgConsentConfig = {
+        eu: true,
+        cookieDomain: '.pdf2go.com',
+        showConsent: qgShowConsent
+    };
+        $('document').ready(function(){
+        try {
+            qgConsent.init(qgConsentConfig);
+        } catch (e) {
+        }
+    });
+</script>    </div>
+
+<!-- Modal -->
+<div class="modal fade" id="authModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content" style="border-radius:0px;background: #f5f5f5">
+            <div class="modal-body">
+                <div class="text-center loading" style="padding-top:50px;">
+                    <div class="spinner">
+                        <div class="rect1"></div>
+                        <div class="rect2"></div>
+                        <div class="rect3"></div>
+                        <div class="rect4"></div>
+                        <div class="rect5"></div>
+                        <div class="rect6"></div>
+                        <div class="rect7"></div>
+                        <div class="rect8"></div>
+                    </div>
+                    <div class="spinner-text">
+                        Un momento...
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
